@@ -1,6 +1,6 @@
-# theme: ${tempus_theme_name_full}
-# author: ${tempus_theme_author}
-# description: ${tempus_theme_description}
+# THEME: ${tempus_theme_name_full}
+# AUTHOR: ${tempus_theme_author}
+# DESCRIPTION: ${tempus_theme_description}
 
 # COLORS
 
@@ -9,24 +9,24 @@ declare-option str fg_alt            'rgb:${colfgalt}'
 declare-option str bg                'rgb:${colbg}'
 declare-option str bg_dim            'rgb:${colbgdim}'
 declare-option str bg_bright         'rgb:${colbgalt}'
-declare-option str bg_accent         'rgb:005F5F'
-declare-option str black             'rgb:121212'
-declare-option str red               'rgb:AF5F5F'
-declare-option str green             'rgb:5F875F'
-declare-option str yellow            'rgb:AF8700'
-declare-option str blue              'rgb:5F87AF'
-declare-option str magenta           'rgb:5F5F87'
-declare-option str cyan              'rgb:5F8787'
-declare-option str white             'rgb:808080'
-declare-option str brblack           'rgb:444444'
-declare-option str brred             'rgb:D7875F'
-declare-option str brgreen           'rgb:87AF87'
-declare-option str bryellow          'rgb:D7AF5F'
-declare-option str brblue            'rgb:87AFD7'
-declare-option str brmagenta         'rgb:8787AF'
-declare-option str brcyan            'rgb:5FAFAF'
-declare-option str brwhite           'rgb:d0d0d0'
-declare-option str purewhite         'rgb:FFFFFF'
+declare-option str bg_accent         'rgb:'
+declare-option str black             'rgb:'
+declare-option str red               'rgb:'
+declare-option str green             'rgb:'
+declare-option str yellow            'rgb:'
+declare-option str blue              'rgb:'
+declare-option str magenta           'rgb:'
+declare-option str cyan              'rgb:'
+declare-option str white             'rgb:'
+declare-option str brblack           'rgb:'
+declare-option str brred             'rgb:'
+declare-option str brgreen           'rgb:'
+declare-option str bryellow          'rgb:'
+declare-option str brblue            'rgb:'
+declare-option str brmagenta         'rgb:'
+declare-option str brcyan            'rgb:'
+declare-option str brwhite           'rgb:'
+declare-option str purewhite         'rgb:'
 
 declare-option str bg_info           'rgba:005F5F80'
 declare-option str bg_error          'rgba:AF5F5F80'
