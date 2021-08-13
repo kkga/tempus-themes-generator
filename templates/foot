@@ -1,0 +1,25 @@
+# theme: ${tempus_theme_name_full}
+# author: ${tempus_theme_author}
+# description: ${tempus_theme_description}
+
+[colors]
+foreground = ${colfg}
+background = ${colbg}
+selection-foreground = ${colbg}
+selection-background = ${colfg}
+regular0 = ${col0}
+regular1 = ${col1}
+regular2 = ${col2}
+regular3 = ${col3}
+regular4 = ${col4}
+regular5 = ${col5}
+regular6 = ${col6}
+regular7 = ${col7}
+bright0 = ${col8}
+bright1 = ${col9}
+bright2 = ${col10}
+bright3 = ${col11}
+bright4 = ${col12}
+bright5 = ${col13}
+bright6 = ${col14}
+bright7 = ${col15}
