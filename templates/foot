@@ -8,8 +8,6 @@ color = ${colcr2} ${colcr}
 [colors]
 foreground = ${colfg}
 background = ${colbg}
-selection-foreground = ${colfgalt}
-selection-background = ${colbgalt}
 regular0 = ${col0}
 regular1 = ${col1}
 regular2 = ${col2}
@@ -26,3 +24,5 @@ bright4 = ${col12}
 bright5 = ${col13}
 bright6 = ${col14}
 bright7 = ${col15}
+#selection-foreground = ${colfgalt}
+#selection-background = ${colbgalt}
