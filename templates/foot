@@ -2,9 +2,14 @@
 # author: ${tempus_theme_author}
 # description: ${tempus_theme_description}
 
+[cursor]
+color = ${colcr2} ${colcr}
+
 [colors]
 foreground = ${colfg}
 background = ${colbg}
+selection-foreground = ${colfgalt}
+selection-background = ${colbgalt}
 regular0 = ${col0}
 regular1 = ${col1}
 regular2 = ${col2}
