@@ -2,8 +2,8 @@
 # author: ${tempus_theme_author}
 # description: ${tempus_theme_description}
 
-[cursor]
-color = ${colcr2} ${colcr}
+#[cursor]
+#color = ${colcr2} ${colcr}
 
 [colors]
 foreground = ${colfg}
